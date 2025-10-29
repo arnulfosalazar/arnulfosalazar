@@ -18,6 +18,7 @@
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Full Stack Web Dev
+- ✨ C++ / Java / Python
 - ✨ Unreal Engine
 
 ### - Hobbies : 
