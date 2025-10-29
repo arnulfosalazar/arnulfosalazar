@@ -1,15 +1,4 @@
-# Hola 👋
-
-<div align="center">
-<img height="300" width="600" alt="GIF" align="center" src="https://i.pinimg.com/originals/6c/4b/3d/6c4b3d800fc2eaa68fec78b40af656b7.gif">
-</div>
-
-</br>
-</br>
-</br>
-
-
-# About ME 💬 :
+# ¡Hola! 👋 About ME 💬 :
 
 ### - I'm a 24 year old Web & Game dev from Texas.
 
